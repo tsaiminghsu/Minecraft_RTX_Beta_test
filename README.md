@@ -8,3 +8,5 @@
 ### 將官方的RTX-Expo-Museum.zip解壓縮測試地圖放到路徑裡面開啟
 ![image](https://github.com/tsaiminghsu/Minecraft_RTX_Beta_test/blob/master/Minecraft_RTX_Beta.png)
 ![image](https://github.com/tsaiminghsu/Minecraft_RTX_Beta_test/blob/master/Minecraft_RTX_Beta_2.png)
+## 官方推薦的5個免費地圖
+### https://www.youtube.com/watch?v=wUCRr04DIHU&t=574s
