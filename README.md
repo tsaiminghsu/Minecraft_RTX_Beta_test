@@ -4,5 +4,7 @@
 ### Minecraft Bedrock (UWP) World Save Folder
 ### %USERPROFILE%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds
 ![image](https://github.com/tsaiminghsu/Minecraft_RTX_Beta_test/blob/master/%E9%96%8B%E5%A7%8B%E5%9F%B7%E8%A1%8C_Minecraft.png)
+
+### 將官方的RTX-Expo-Museum.zip解壓縮測試地圖放到路徑裡面開啟
 ![image](https://github.com/tsaiminghsu/Minecraft_RTX_Beta_test/blob/master/Minecraft_RTX_Beta.png)
 ![image](https://github.com/tsaiminghsu/Minecraft_RTX_Beta_test/blob/master/Minecraft_RTX_Beta_2.png)
